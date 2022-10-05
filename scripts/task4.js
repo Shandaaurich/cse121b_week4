@@ -23,7 +23,7 @@
 const shanda =
 {
     name: 'Shanda Aurich',
-    photo: '/images/image.jpg',
+    photo: 'images/image.jpg',
     favoriteFoods: ["Dr. Pepper", " chocolate", " tacos", " carbs", " ice cream", "pizza"],
     hobbies: ['running', 'homework', 'playing with my kids', 'videogames', 'watching movies'],
     placesLived: [{
